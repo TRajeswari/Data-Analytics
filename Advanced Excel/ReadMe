@@ -1,1 +1,39 @@
+*AtliQ Hardwares Report*
+AtliQ Business Model 💻
+🔹 Hardware company selling peripherals like PCs, mice, keyboards, and printers to clients worldwide.
 
+Problem Statement 😇
+🔹 Create a Finance and Sales report to improve Gross Margin and overall Net Sales.
+
+Finance Analytics 📊
+🔹 Analyzed financial metrics:
+
+Net Sales
+COGS (Cost of Goods Sold)
+Gross Margin
+GM% (Gross Margin Percentage)
+🔹 Conducted analysis on a monthly, quarterly, and annual basis for the fiscal year.
+
+Sales Analytics 📈
+🔹 Analyzed sales data to evaluate:
+
+Customer performance
+Market performance against targets
+Top 10 products
+Division-level reports
+Top and Bottom 5 products by Quantity
+New products
+Top 5 Markets
+Technical Skills 💻
+🔹 Proficiency in ETL (Extract, Transform, Load) methodology.
+🔹 Skills to generate a date table using Power Query.
+🔹 Ability to derive fiscal months and quarters.
+🔹 Establishing data model relationships with Power Pivot.
+🔹 Incorporating supplementary data into an existing data model.
+🔹 Utilizing DAX to create calculated columns.
+
+Soft Skills 🤝
+🔹 Strong understanding of Finance & Sales Reports.
+🔹 Designing user-centric reports with empathy.
+🔹 Optimizing report generation through meticulous fine-tuning.
+🔹 Developing a systematic approach to creating a report-building plan.

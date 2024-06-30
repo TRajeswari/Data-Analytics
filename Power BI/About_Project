@@ -1,22 +1,5 @@
-# HR Analytics with Power BI 
+Welcome to Power BI projects
 
-## Description
-
-This project aims to predict Attrition count using statistical and analyse into the Power BI techniques. 
-The goal is to identify employees who are unlikely to stay in the organization near future so that 
-the company can take proactive measures to retain them.
-
-## Data
-
-The dataset used in this project contains information about telecom customers, including demographics, usage patterns, and churn status. It was obtained from Kaggle and consists of 5,000 customer records with 20 features.
-
-Dataset: [Telecom Customer Churn Dataset](https://www.kaggle.com/username/telecom-churn-dataset)
-
-## Methodology
-
-We used a DAX functions and presenting in the different charts to find the more insights. 
-
-## Usage
 
 To use this project, follow these steps:
 1. Data Cleaning
@@ -24,11 +7,6 @@ To use this project, follow these steps:
 3. Data Partition
 4. Report & Dashboard
 5. Business Insights
-
-## Contributing
-
-Contributions to this project are welcome! If you have ideas for improving the analysis or want to explore new techniques, feel free to submit a pull request or open an issue.
-
 
 ## About Me
 

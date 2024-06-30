@@ -22,8 +22,9 @@ Executive View:
 
 Reviews yearly trends in Revenue, Gross Margin %, Net Profit %, and Market Share %.
 Lists the Top 5 Customers and Products by Revenue.
+
 Explore the Live Dashboard:
-[Project Link]
+<iframe title="Business Insights Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjJjY2Y1NjctYWQwMS00MDVjLWI2NGEtZWI3YThkNmVhNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Data Sources:
 The dashboard pulls data from:

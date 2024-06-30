@@ -1,1 +1,36 @@
+Business Insights 360 Power BI Project Overview
 
+Purpose:
+This Power BI dashboard helps AtliQ Hardware make informed decisions by providing insights into Finance, Sales, Marketing, and Supply Chain.
+
+Key Insights:
+
+Finance View:
+
+Tracks important KPIs like Net Sales, Gross Margin %, and Net Profit %.
+Includes a detailed Profit & Loss Statement with year-over-year growth.
+Sales View:
+
+Analyzes customer performance based on Net Sales and Gross Margin.
+Marketing View:
+
+Shows how different segments perform and their Net Profit.
+Supply Chain View:
+
+Compares Actual Sales with Forecasted Sales to check accuracy.
+Executive View:
+
+Reviews yearly trends in Revenue, Gross Margin %, Net Profit %, and Market Share %.
+Lists the Top 5 Customers and Products by Revenue.
+Explore the Live Dashboard:
+[Project Link]
+
+Data Sources:
+The dashboard pulls data from:
+
+Excel/CSV Files:
+
+For targets, market share data, and related information.
+MySQL Database:
+
+For facts and dimensions data.
